@@ -1,2 +1,5 @@
-# devops-practical
-DevOps basics: Git version control and commit history
+# DevOps Practical
+
+Version 1: Introduction to DevOps and Git.
+
+Version 2: Learning Git and Version Control.
